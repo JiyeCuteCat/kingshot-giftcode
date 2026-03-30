@@ -1,6 +1,8 @@
  # ⚔️  KingShot Gift Code Redeemer                                                                                                                                         
 <img width="634" height="769" alt="screenshot_2" src="https://github.com/user-attachments/assets/1f643651-87aa-4680-8bda-eb68ddd4034a" />
 <img width="638" height="409" alt="screenshot_1" src="https://github.com/user-attachments/assets/0970139e-7a9f-4786-b92c-a623591c5e8a" />
+<img width="634" height="769" alt="screenshot_2" src="https://github.com/user-attachments/assets/57df01e6-8d4b-4ab1-90e3-7a0c65e13c30" />
+
 
 <img width="632" height="773" alt="s_1" src="https://github.com/user-attachments/assets/55a39c6e-e6b2-4aed-b8bf-63b486d9d39c" />
 <img width="632" height="767" alt="s_2" src="https://github.com/user-attachments/assets/73f20d3a-2c5a-4936-a66c-a10feadd85e3" />
