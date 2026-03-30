@@ -35,7 +35,8 @@
 
   **macOS**
   1. `KingShot.GiftCode.mac.zip` 다운로드 후 압축 해제
-  2. 앱 **우클릭 → 열기** (최초 1회)                                                                                                                                       
+  2. 앱 **우클릭 → 열기** 
+  (간혹 KingShot GiftCode을 열지 않음이 뜨기도 해요. 그러면 시스템설정-개인정보 보호 및 보안 아래로 스크롤 후 보안에서 Mac을 보호하기 위해 'KingShot GiftCode'을 차단했습니다. 나오는데 그래도 열기 눌러주시면 됩니다.)                                                                                                                                   
   3. 기프트코드 입력 → 길드원 추가 → 시작!
                                                                                                                                                                            
   **Windows**     
@@ -49,7 +50,9 @@
 
   **macOS**
   1. Download and unzip `KingShot.GiftCode.mac.zip`
-  2. **Right-click → Open** (first time only)                                                                                                                              
+  2. **Right-click → Open** (first time only)
+  (Occasionally, you might see a message saying 'KingShot GiftCode cannot be opened.' 
+  If this happens, go to System Settings > Privacy & Security, scroll down to the Security section, and click 'Open Anyway' next to the message stating the app was blocked)
   3. Enter gift code → Add members → Start!
                                                                                                                                                                            
   **Windows**     
