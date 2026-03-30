@@ -74,7 +74,7 @@
   - `player_id` : required / 필수                                                                                                                                          
   - `name` : optional (if empty, player_id is used) / 선택 (비우면 ID로 표시)
 
-  작성 예시 (example)
+  작성 예시 (example) - 한국어는 깨질 수 있어요! 한국어 닉네임이라면 ID만 작성을 권장드립니다. 아이디만 작성해도 프로그램이 잘 동작합니다!
   <p>
    <img width="638" height="409" alt="screenshot_1" src="https://github.com/user-attachments/assets/0970139e-7a9f-4786-b92c-a623591c5e8a" /> 
   </p>
