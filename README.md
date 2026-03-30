@@ -75,7 +75,10 @@
   - `name` : optional (if empty, player_id is used) / 선택 (비우면 ID로 표시)
 
   작성 예시 (example)
-  <img width="638" height="409" alt="screenshot_1" src="https://github.com/user-attachments/assets/0970139e-7a9f-4786-b92c-a623591c5e8a" /> 
+  <p>
+   <img width="638" height="409" alt="screenshot_1" src="https://github.com/user-attachments/assets/0970139e-7a9f-4786-b92c-a623591c5e8a" /> 
+  </p>
+
 
   ---
 
