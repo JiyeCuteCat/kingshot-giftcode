@@ -1,12 +1,9 @@
- # ⚔️  KingShot Gift Code Redeemer                                                                                                                                         
-<img width="634" height="769" alt="screenshot_2" src="https://github.com/user-attachments/assets/1f643651-87aa-4680-8bda-eb68ddd4034a" />
-<img width="638" height="409" alt="screenshot_1" src="https://github.com/user-attachments/assets/0970139e-7a9f-4786-b92c-a623591c5e8a" />
-<img width="634" height="767" alt="screeenshot_3" src="https://github.com/user-attachments/assets/7f05ff5c-196e-4956-ab59-9b57f396ed5b" />
-
-
-
-<img width="632" height="773" alt="s_1" src="https://github.com/user-attachments/assets/55a39c6e-e6b2-4aed-b8bf-63b486d9d39c" />
-<img width="632" height="767" alt="s_2" src="https://github.com/user-attachments/assets/73f20d3a-2c5a-4936-a66c-a10feadd85e3" />
+ # ⚔️  KingShot Gift Code Redeemer                                                                                                                                      
+<p align="center">
+ <img width="30%" alt="s_3" src="https://github.com/user-attachments/assets/7f05ff5c-196e-4956-ab59-9b57f396ed5b" />
+ <img width="30%" alt="s_1" src="https://github.com/user-attachments/assets/55a39c6e-e6b2-4aed-b8bf-63b486d9d39c" />
+ <img width="30%" alt="s_2" alt="s_2" src="https://github.com/user-attachments/assets/73f20d3a-2c5a-4936-a66c-a10feadd85e3" />
+</p>
                                                                                                                                                                     
   자동으로 길드원 전체에게 기프트코드를 등록해주는 데스크탑 앱이에요.                                                                                                      
   A desktop app that automatically redeems gift codes for all guild members.
@@ -77,6 +74,8 @@
   - `player_id` : required / 필수                                                                                                                                          
   - `name` : optional (if empty, player_id is used) / 선택 (비우면 ID로 표시)
 
+  작성 예시 (example)
+  <img width="638" height="409" alt="screenshot_1" src="https://github.com/user-attachments/assets/0970139e-7a9f-4786-b92c-a623591c5e8a" /> 
 
   ---
 
