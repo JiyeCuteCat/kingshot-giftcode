@@ -85,11 +85,14 @@
                   
   ## ⚠️  Notice / 안내
 
-  <p>
-   <img width="585" height="1266" alt="s_6" src="https://github.com/user-attachments/assets/4b2d26fd-edd1-495d-a182-156cf732cf81" />
-  </p>                                                                                       
+                                                                                        
   - 게임사 문의 결과 현재 제재 대상이 아님을 확인했습니다
-  - Confirmed with support that this is not subject to sanctions at this time                                                                                              
+  - Confirmed with support that this is not subject to sanctions at this time
+
+  <p>
+   <img width="300" alt="s_6" src="https://github.com/user-attachments/assets/4b2d26fd-edd1-495d-a182-156cf732cf81" />
+  </p> 
+                                                                                              
                   
   ---                                                                                                                                                                      
                   
